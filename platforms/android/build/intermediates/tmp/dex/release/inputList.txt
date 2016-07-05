@@ -1,0 +1,2 @@
+F:\SiD\Junk\websites\appify_one\appifytwo\platforms\android\build\intermediates\classes\release
+F:\SiD\Junk\websites\appify_one\appifytwo\platforms\android\build\intermediates\pre-dexed\release\classes-0fbb9227567d70db2c8aa28987f1936170656526.jar

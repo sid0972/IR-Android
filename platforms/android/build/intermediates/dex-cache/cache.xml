@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\SiD\Junk\websites\appify_one\appifytwo\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27ca49d28ea8e72908c49fe3cbbbdf4beb0c6160">
+        <dex dex="F:\SiD\Junk\websites\appify_one\appifytwo\platforms\android\build\intermediates\pre-dexed\release\classes-0fbb9227567d70db2c8aa28987f1936170656526.jar" />
+    </item>
+    <item
+        jar="F:\SiD\Junk\websites\appify_one\appifytwo\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e603532b33bd12fa718c03077fa4b37bf8735969">
+        <dex dex="F:\SiD\Junk\websites\appify_one\appifytwo\platforms\android\build\intermediates\pre-dexed\debug\classes-6ab2a0cc9a0ad5b5171ae1207d37f1d1a9ef13bf.jar" />
+    </item>
+
+</items>
